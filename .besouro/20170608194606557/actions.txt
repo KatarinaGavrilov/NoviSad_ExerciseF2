@@ -53,3 +53,4 @@ RefactoringAction 1496946086795 PlanetExplorer.java RENAME PlanetExplorer(int, i
 RefactoringAction 1496946095116 TestPlanetExplorer.java REMOVE test_PlanetExplorerConsDirection() METHOD
 RefactoringAction 1496946099341 PlanetExplorer.java REMOVE PlanetExplorer() METHOD
 EditAction 1496946103289 TestPlanetExplorer.java 493 2 5 2
+EditAction 1496946106270 PlanetExplorer.java 1366 2 2 0
