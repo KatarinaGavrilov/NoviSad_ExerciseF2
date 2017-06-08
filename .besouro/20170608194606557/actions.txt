@@ -66,3 +66,15 @@ RefactoringAction 1496946589273 PlanetExplorer.java REMOVE x FIELD
 RefactoringAction 1496946591574 PlanetExplorer.java ADD int x FIELD
 RefactoringAction 1496946594831 PlanetExplorer.java REMOVE x FIELD
 EditAction 1496946623451 PlanetExplorer.java 1370 2 7 0
+CompilationAction 1496946626473 PlanetExplorer.java
+RefactoringAction 1496946919852 PlanetExplorer.java ADD int x FIELD
+RefactoringAction 1496946919854 PlanetExplorer.java ADD int y FIELD
+RefactoringAction 1496946922876 PlanetExplorer.java ADD String obstacles FIELD
+RefactoringAction 1496946924928 PlanetExplorer.java ADD String di FIELD
+RefactoringAction 1496946928951 PlanetExplorer.java RENAME di=>String direction FIELD
+RefactoringAction 1496946952134 PlanetExplorer.java ADD String vozilo FIELD
+CompilationAction 1496946979895 PlanetExplorer.java
+UnitTestCaseAction 1496946984225 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496946984227 TestPlanetExplorer.java FAIL
+RefactoringAction 1496946995485 PlanetExplorer.java REMOVE vozilo FIELD
+EditAction 1496946996994 PlanetExplorer.java 1426 2 5 0
