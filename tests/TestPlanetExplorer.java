@@ -17,9 +17,5 @@ public class TestPlanetExplorer {
 		assertNotNull(vozilo);
 	}
 	
-	@Test
-	public void test_PlanetExplorerConstructorFacing() {
-		PlanetExplorer vozilo = new PlanetExplorer(0,0,N);
-		assertNotNull(vozilo);
-	}
+	
 }

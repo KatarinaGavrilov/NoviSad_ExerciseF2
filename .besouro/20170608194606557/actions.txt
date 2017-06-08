@@ -13,3 +13,12 @@ RefactoringAction 1496945008374 TestPlanetExplorer.java RENAME test_PlanetExplor
 RefactoringAction 1496945010400 TestPlanetExplorer.java RENAME test_PlanetExplorerConstructorDirection=>void test_PlanetExplorerConstructorDirection() METHOD
 RefactoringAction 1496945052068 TestPlanetExplorer.java RENAME test_PlanetExplorerConstructorDirection()=>void test_PlanetExplorerConstructorFacing() METHOD
 EditAction 1496945063294 TestPlanetExplorer.java 470 2 4 2
+CompilationAction 1496945066380 TestPlanetExplorer.java
+UnitTestCaseAction 1496945068939 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496945068940 TestPlanetExplorer.java FAIL
+RefactoringAction 1496945080377 PlanetExplorer.java ADD PlanetExplorer() METHOD
+RefactoringAction 1496945086415 PlanetExplorer.java RENAME PlanetExplorer()=>PlanetExplorer(int, int) METHOD
+RefactoringAction 1496945099504 PlanetExplorer.java RENAME PlanetExplorer(int, int)=>PlanetExplorer(int, int, String)/2 METHOD
+RefactoringAction 1496945133529 PlanetExplorer.java REMOVE PlanetExplorer(int, int, String)/2 METHOD
+RefactoringAction 1496945135739 TestPlanetExplorer.java REMOVE test_PlanetExplorerConstructorFacing() METHOD
+EditAction 1496945147113 PlanetExplorer.java 1249 2 1 0
