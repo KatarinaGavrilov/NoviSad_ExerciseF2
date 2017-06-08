@@ -23,4 +23,11 @@ public class TestPlanetExplorer {
 		vozilo.executeCommand("f");
 		assertEquals("0,1,(1,1)", vozilo);
 	}
+	
+	@Test
+	public void test_executeB() {
+		PlanetExplorer vozilo = new PlanetExplorer(0,2,"1,1");
+		vozilo.executeCommand("b");
+		assertEquals("0,1,(1,1)", vozilo);
+	}
 }
