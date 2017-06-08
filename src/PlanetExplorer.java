@@ -19,9 +19,9 @@ public class PlanetExplorer {
 		Example use: For a 100x100 grid with two obstacles at coordinates (5,5) and (7,8)
 		PlanetExplorer explorer = new PlanetExplorer(100,100,"(5,5)(7,8)")  		 
 	 */		
-		x = this.x;
-		y = this.y;
-		obstacles = this.obstacles;
+		this.x = x;
+		this.y = y;
+		this.obstacles = obstacles;
 	}
 		
 	public String executeCommand(String command){
