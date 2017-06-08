@@ -1,7 +1,7 @@
 
 // Before you commit and push write your student ID and finish time here.
-// Finish time:
-// Student ID:
+// Finish time: 20:42
+// Student ID: IT9/2015
 
 public class PlanetExplorer {
 			
@@ -44,6 +44,6 @@ public class PlanetExplorer {
 			y--;
 		}
 		
-		return Integer.toString(x) + "," + Integer.toString(y) + "," + "(" + Integer.toString(obstacles) + ")";
+		return Integer.toString(x) + "," + Integer.toString(y) + "," + "(" + obstacles + ")";
 	}
 }
