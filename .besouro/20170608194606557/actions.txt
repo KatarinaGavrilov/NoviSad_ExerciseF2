@@ -37,3 +37,6 @@ RefactoringAction 1496945873697 PlanetExplorer.java ADD String obstacles FIELD
 RefactoringAction 1496945873720 PlanetExplorer.java ADD String direction FIELD
 RefactoringAction 1496945873721 PlanetExplorer.java ADD String facing FIELD
 EditAction 1496945886231 PlanetExplorer.java 1364 2 2 0
+UnitTestCaseAction 1496945892708 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496945892714 TestPlanetExplorer.java FAIL
+EditAction 1496945903603 TestPlanetExplorer.java 493 2 5 2
