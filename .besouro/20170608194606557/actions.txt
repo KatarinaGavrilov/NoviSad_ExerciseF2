@@ -2,3 +2,14 @@ FileOpenedAction 1496943967102 TestPlanetExplorer.java 174 1 1 0
 RefactoringAction 1496943998159 TestPlanetExplorer.java ADD void test_ FIELD
 RefactoringAction 1496944636340 TestPlanetExplorer.java RENAME test_=>void test_PlanetExplorerConstructor() METHOD
 EditAction 1496944795714 TestPlanetExplorer.java 318 2 3 1
+UnitTestCaseAction 1496944941716 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496944941729 TestPlanetExplorer.java FAIL
+RefactoringAction 1496944948509 TestPlanetExplorer.java REMOVE test_executeCommand() METHOD
+RefactoringAction 1496944948515 TestPlanetExplorer.java REMOVE test_PlanetExplorerConstructor() METHOD
+RefactoringAction 1496944950549 TestPlanetExplorer.java ADD void test_PlanetExplorerConstructor() METHOD
+RefactoringAction 1496944989314 TestPlanetExplorer.java ADD void test_Planet FIELD
+RefactoringAction 1496944991852 TestPlanetExplorer.java RENAME test_Planet=>void test_PlanetExplorer FIELD
+RefactoringAction 1496945008374 TestPlanetExplorer.java RENAME test_PlanetExplorer=>void test_PlanetExplorerConstructorDirection FIELD
+RefactoringAction 1496945010400 TestPlanetExplorer.java RENAME test_PlanetExplorerConstructorDirection=>void test_PlanetExplorerConstructorDirection() METHOD
+RefactoringAction 1496945052068 TestPlanetExplorer.java RENAME test_PlanetExplorerConstructorDirection()=>void test_PlanetExplorerConstructorFacing() METHOD
+EditAction 1496945063294 TestPlanetExplorer.java 470 2 4 2
