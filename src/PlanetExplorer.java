@@ -44,6 +44,6 @@ public class PlanetExplorer {
 			y--;
 		}
 		
-		return null;
+		return x + "," + y + "," + obstacles;
 	}
 }
