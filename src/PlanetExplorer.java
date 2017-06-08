@@ -44,6 +44,6 @@ public class PlanetExplorer {
 			y--;
 		}
 		
-		return x + "," + y + "," + "(" + obstacles + ")";
+		return Integer.toString(x) + "," + Integer.toString(y) + "," + "(" + Integer.toString(obstacles) + ")";
 	}
 }
