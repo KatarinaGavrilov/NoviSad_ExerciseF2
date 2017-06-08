@@ -29,3 +29,11 @@ RefactoringAction 1496945180812 TestPlanetExplorer.java RENAME test_=>void test_
 RefactoringAction 1496945205330 TestPlanetExplorer.java RENAME test_execute=>void test_executeF FIELD
 RefactoringAction 1496945207853 TestPlanetExplorer.java RENAME test_executeF=>void test_executeF() METHOD
 EditAction 1496945349172 TestPlanetExplorer.java 487 2 5 2
+UnitTestCaseAction 1496945354370 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496945354372 TestPlanetExplorer.java FAIL
+RefactoringAction 1496945862673 PlanetExplorer.java ADD int x FIELD
+RefactoringAction 1496945862675 PlanetExplorer.java ADD int y FIELD
+RefactoringAction 1496945873697 PlanetExplorer.java ADD String obstacles FIELD
+RefactoringAction 1496945873720 PlanetExplorer.java ADD String direction FIELD
+RefactoringAction 1496945873721 PlanetExplorer.java ADD String facing FIELD
+EditAction 1496945886231 PlanetExplorer.java 1364 2 2 0

@@ -4,6 +4,13 @@
 // Student ID:
 
 public class PlanetExplorer {
+	
+	int x;
+	int y;
+	String obstacles;
+	String direction;
+	String facing;
+	
 	public PlanetExplorer(int x, int y, String obstacles){
 	/*	x and y represent the size of the grid.
 	 *  Obstacles is a String formatted as follows: "(obs1_x,obs1_y)(obs2_x,obs2_y)...(obsN_x,obsN_y)" with no white spaces. 
@@ -27,6 +34,11 @@ public class PlanetExplorer {
 		 * Where pos_x and pos_y are the final coordinates, facing is the current direction the explorer is pointing to (N,S,W,E).
 		 * The return string should also contain a list of coordinates of the encountered obstacles. No white spaces.
 		 */
+	
+		
+		if (command == "f") {
+			y++;
+		}
 		
 		return null;
 	}
