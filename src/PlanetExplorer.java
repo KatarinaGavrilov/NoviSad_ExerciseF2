@@ -5,9 +5,9 @@
 
 public class PlanetExplorer {
 			
-	int x; 
-	int y;
-	String obstacles;
+	int x = 0; 
+	int y = 0;
+	String obstacles = "(1,1)";
 	String direction;
 	String facing;
 	
