@@ -18,12 +18,6 @@ public class TestPlanetExplorer {
 	}
 	
 	@Test
-	public void test_PlanetExplorerConsDirection() {
-		PlanetExplorer vozilo = new PlanetExplorer(0,0,"f");
-		assertNotNull(vozilo);
-	}
-	
-	@Test
 	public void test_executeF() {
 		PlanetExplorer vozilo = new PlanetExplorer(0,0,"1,1");
 		vozilo.executeCommand("f");
