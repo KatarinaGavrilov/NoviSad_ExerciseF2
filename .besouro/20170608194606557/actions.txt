@@ -1,0 +1,4 @@
+FileOpenedAction 1496943967102 TestPlanetExplorer.java 174 1 1 0
+RefactoringAction 1496943998159 TestPlanetExplorer.java ADD void test_ FIELD
+RefactoringAction 1496944636340 TestPlanetExplorer.java RENAME test_=>void test_PlanetExplorerConstructor() METHOD
+EditAction 1496944795714 TestPlanetExplorer.java 318 2 3 1
