@@ -22,3 +22,10 @@ RefactoringAction 1496945099504 PlanetExplorer.java RENAME PlanetExplorer(int, i
 RefactoringAction 1496945133529 PlanetExplorer.java REMOVE PlanetExplorer(int, int, String)/2 METHOD
 RefactoringAction 1496945135739 TestPlanetExplorer.java REMOVE test_PlanetExplorerConstructorFacing() METHOD
 EditAction 1496945147113 PlanetExplorer.java 1249 2 1 0
+UnitTestCaseAction 1496945151027 TestPlanetExplorer.java OK
+UnitTestSessionAction 1496945151031 TestPlanetExplorer.java OK
+RefactoringAction 1496945177291 TestPlanetExplorer.java ADD void test_ FIELD
+RefactoringAction 1496945180812 TestPlanetExplorer.java RENAME test_=>void test_execute FIELD
+RefactoringAction 1496945205330 TestPlanetExplorer.java RENAME test_execute=>void test_executeF FIELD
+RefactoringAction 1496945207853 TestPlanetExplorer.java RENAME test_executeF=>void test_executeF() METHOD
+EditAction 1496945349172 TestPlanetExplorer.java 487 2 5 2
