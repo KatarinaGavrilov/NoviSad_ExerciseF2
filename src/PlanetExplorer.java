@@ -40,6 +40,10 @@ public class PlanetExplorer {
 			y++;
 		}
 		
+		if (command == "b") {
+			y--;
+		}
+		
 		return null;
 	}
 }
