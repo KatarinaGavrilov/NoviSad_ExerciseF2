@@ -54,3 +54,15 @@ RefactoringAction 1496946095116 TestPlanetExplorer.java REMOVE test_PlanetExplor
 RefactoringAction 1496946099341 PlanetExplorer.java REMOVE PlanetExplorer() METHOD
 EditAction 1496946103289 TestPlanetExplorer.java 493 2 5 2
 EditAction 1496946106270 PlanetExplorer.java 1366 2 2 0
+UnitTestCaseAction 1496946110189 TestPlanetExplorer.java FAIL
+UnitTestSessionAction 1496946110192 TestPlanetExplorer.java FAIL
+RefactoringAction 1496946574191 PlanetExplorer.java REMOVE y FIELD
+RefactoringAction 1496946574194 PlanetExplorer.java REMOVE facing FIELD
+RefactoringAction 1496946574196 PlanetExplorer.java REMOVE obstacles FIELD
+RefactoringAction 1496946574197 PlanetExplorer.java REMOVE x FIELD
+RefactoringAction 1496946574198 PlanetExplorer.java REMOVE direction FIELD
+RefactoringAction 1496946585576 PlanetExplorer.java ADD int x FIELD
+RefactoringAction 1496946589273 PlanetExplorer.java REMOVE x FIELD
+RefactoringAction 1496946591574 PlanetExplorer.java ADD int x FIELD
+RefactoringAction 1496946594831 PlanetExplorer.java REMOVE x FIELD
+EditAction 1496946623451 PlanetExplorer.java 1370 2 7 0
